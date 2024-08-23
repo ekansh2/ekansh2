@@ -1,16 +1,18 @@
-## Hi there 👋
+# Ekansh Sharma
+I am a Front-end Developer with more than 5 years of experience in web development, using Javascript and React.
 
-<!--
-**ekansh2/ekansh2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 SKILLS & COMPETENCIES
+* React.js
+* Redux
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* Responsive Web Design
+* Cross-Browser Compatibility
+* Front-end Architecture
+* RESTful APIs
+* Webpack
+* Babel
+* Git
+* Unit Testing
+* Performance Optimization
